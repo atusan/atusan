@@ -8,8 +8,8 @@ I'm a full stack software web developer located in Orange County, CA. I am a res
 - 🔭 I’m currently working on Big Island's Big Fans project which is a web application to provides an envirorment for big island's fan to share their favorite photos from this beautiful island's as well as comment to other photos 
 - 👯 I’m looking to collaborate on web application projects feel free connect with me.
 
-<!-- ### Languages and Tools 🛠️ -->
-JavaScript, D3.js, Geo Mapping with Leaflet.js, React, Node.js, Express, SQL Databases (PostgreSQL, SQLAlchemy, MongoDB, Mongoose, ETL), Python, Django, PostgresSQL, VS Code, Git, GitHub, HTML, CSS, Bootstrap, Materialize, Semantic UI, Amazon Web Services (AWS), Azure, Social Media Mining,Heroku.-->
+<!-- ### Languages and Tools 🛠️ 
+JavaScript, D3.js, Geo Mapping with Leaflet.js, React, Node.js, Express, SQL Databases (PostgreSQL, SQLAlchemy, MongoDB, Mongoose, ETL), Python, Django, PostgresSQL, VS Code, Git, GitHub, HTML, CSS, Bootstrap, Materialize, Semantic UI, Amazon Web Services (AWS), Azure, Social Media Mining,Heroku. -->
 
 <div align="center">   
 <a href="mailto:atnaseri@gmail.com">Email</a>
