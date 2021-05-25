@@ -6,7 +6,7 @@
 I'm a full stack software web developer located in Orange County, CA. I am a resourceful and detail-driven software developer who enjoys turning problems into opportunities. My previous experience as a full-time web developer demonstrates the range of my capabilities: from being able to adapt and adjust to finding efficient, concise solutions for challenging situations.
 
 - 🔭 I’m currently working on Big Island's Big Fans project which is a web application to provides an envirorment for big island's fan to share their favorite photos from this beautiful island's as well as comment to other photos 
-- 👯 I’m looking to collaborate on web application projects feel free connect with me.
+- 👯 I’m looking to collaborate on web application projects feel free connect with me
 - 😄 Pronouns: She/Her
 
 
